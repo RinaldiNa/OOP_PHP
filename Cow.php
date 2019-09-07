@@ -17,3 +17,5 @@ class Cow extends Animal
         return $this->owner;
     }
 }
+
+echo "tes";
